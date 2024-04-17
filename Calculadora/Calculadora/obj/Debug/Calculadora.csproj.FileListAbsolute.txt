@@ -17,3 +17,13 @@ F:\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateRes
 F:\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
 F:\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 F:\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\polca\Documents\GitHub\DAM12024\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\polca\Documents\GitHub\DAM12024\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\polca\Documents\GitHub\DAM12024\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\polca\Documents\GitHub\DAM12024\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\polca\Documents\GitHub\DAM12024\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources
+C:\Users\polca\Documents\GitHub\DAM12024\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\polca\Documents\GitHub\DAM12024\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\polca\Documents\GitHub\DAM12024\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\polca\Documents\GitHub\DAM12024\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\polca\Documents\GitHub\DAM12024\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

@@ -43,44 +43,49 @@
             // 
             // txtNombre1
             // 
-            this.txtNombre1.Location = new System.Drawing.Point(112, 46);
+            this.txtNombre1.Location = new System.Drawing.Point(149, 57);
+            this.txtNombre1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtNombre1.Name = "txtNombre1";
-            this.txtNombre1.Size = new System.Drawing.Size(100, 20);
+            this.txtNombre1.Size = new System.Drawing.Size(132, 22);
             this.txtNombre1.TabIndex = 0;
             this.txtNombre1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // txtNombre2
             // 
-            this.txtNombre2.Location = new System.Drawing.Point(112, 87);
+            this.txtNombre2.Location = new System.Drawing.Point(149, 107);
+            this.txtNombre2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtNombre2.Name = "txtNombre2";
-            this.txtNombre2.Size = new System.Drawing.Size(100, 20);
+            this.txtNombre2.Size = new System.Drawing.Size(132, 22);
             this.txtNombre2.TabIndex = 1;
             this.txtNombre2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // lblNombre1
             // 
             this.lblNombre1.AutoSize = true;
-            this.lblNombre1.Location = new System.Drawing.Point(53, 46);
+            this.lblNombre1.Location = new System.Drawing.Point(71, 57);
+            this.lblNombre1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblNombre1.Name = "lblNombre1";
-            this.lblNombre1.Size = new System.Drawing.Size(53, 13);
+            this.lblNombre1.Size = new System.Drawing.Size(66, 16);
             this.lblNombre1.TabIndex = 2;
             this.lblNombre1.Text = "Nombre1:";
             // 
             // lblNombre2
             // 
             this.lblNombre2.AutoSize = true;
-            this.lblNombre2.Location = new System.Drawing.Point(53, 87);
+            this.lblNombre2.Location = new System.Drawing.Point(71, 107);
+            this.lblNombre2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblNombre2.Name = "lblNombre2";
-            this.lblNombre2.Size = new System.Drawing.Size(53, 13);
+            this.lblNombre2.Size = new System.Drawing.Size(66, 16);
             this.lblNombre2.TabIndex = 3;
             this.lblNombre2.Text = "Nombre2:";
             // 
             // btnSumar
             // 
             this.btnSumar.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSumar.Location = new System.Drawing.Point(29, 131);
+            this.btnSumar.Location = new System.Drawing.Point(488, 23);
+            this.btnSumar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnSumar.Name = "btnSumar";
-            this.btnSumar.Size = new System.Drawing.Size(44, 41);
+            this.btnSumar.Size = new System.Drawing.Size(59, 50);
             this.btnSumar.TabIndex = 4;
             this.btnSumar.Text = "+";
             this.btnSumar.UseVisualStyleBackColor = true;
@@ -89,9 +94,10 @@
             // btnRestar
             // 
             this.btnRestar.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRestar.Location = new System.Drawing.Point(91, 131);
+            this.btnRestar.Location = new System.Drawing.Point(488, 81);
+            this.btnRestar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnRestar.Name = "btnRestar";
-            this.btnRestar.Size = new System.Drawing.Size(44, 41);
+            this.btnRestar.Size = new System.Drawing.Size(59, 50);
             this.btnRestar.TabIndex = 5;
             this.btnRestar.Text = "-";
             this.btnRestar.UseVisualStyleBackColor = true;
@@ -100,9 +106,10 @@
             // btnMultiplicar
             // 
             this.btnMultiplicar.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMultiplicar.Location = new System.Drawing.Point(155, 131);
+            this.btnMultiplicar.Location = new System.Drawing.Point(488, 139);
+            this.btnMultiplicar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnMultiplicar.Name = "btnMultiplicar";
-            this.btnMultiplicar.Size = new System.Drawing.Size(44, 41);
+            this.btnMultiplicar.Size = new System.Drawing.Size(59, 50);
             this.btnMultiplicar.TabIndex = 6;
             this.btnMultiplicar.Text = "*";
             this.btnMultiplicar.UseVisualStyleBackColor = true;
@@ -111,9 +118,10 @@
             // btnDividir
             // 
             this.btnDividir.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDividir.Location = new System.Drawing.Point(218, 131);
+            this.btnDividir.Location = new System.Drawing.Point(488, 197);
+            this.btnDividir.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnDividir.Name = "btnDividir";
-            this.btnDividir.Size = new System.Drawing.Size(44, 41);
+            this.btnDividir.Size = new System.Drawing.Size(59, 50);
             this.btnDividir.TabIndex = 7;
             this.btnDividir.Text = "/";
             this.btnDividir.UseVisualStyleBackColor = true;
@@ -121,10 +129,11 @@
             // 
             // txtResultat
             // 
-            this.txtResultat.Location = new System.Drawing.Point(112, 200);
+            this.txtResultat.Location = new System.Drawing.Point(149, 246);
+            this.txtResultat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtResultat.Name = "txtResultat";
             this.txtResultat.ReadOnly = true;
-            this.txtResultat.Size = new System.Drawing.Size(100, 20);
+            this.txtResultat.Size = new System.Drawing.Size(132, 22);
             this.txtResultat.TabIndex = 8;
             this.txtResultat.TabStop = false;
             this.txtResultat.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -132,18 +141,20 @@
             // lblResultat
             // 
             this.lblResultat.AutoSize = true;
-            this.lblResultat.Location = new System.Drawing.Point(53, 200);
+            this.lblResultat.Location = new System.Drawing.Point(71, 246);
+            this.lblResultat.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblResultat.Name = "lblResultat";
-            this.lblResultat.Size = new System.Drawing.Size(49, 13);
+            this.lblResultat.Size = new System.Drawing.Size(59, 16);
             this.lblResultat.TabIndex = 9;
             this.lblResultat.Text = "Resultat:";
             // 
             // btnSequencia
             // 
             this.btnSequencia.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSequencia.Location = new System.Drawing.Point(287, 131);
+            this.btnSequencia.Location = new System.Drawing.Point(415, 255);
+            this.btnSequencia.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnSequencia.Name = "btnSequencia";
-            this.btnSequencia.Size = new System.Drawing.Size(99, 41);
+            this.btnSequencia.Size = new System.Drawing.Size(132, 50);
             this.btnSequencia.TabIndex = 10;
             this.btnSequencia.Text = "Sequencia";
             this.btnSequencia.UseVisualStyleBackColor = true;
@@ -151,9 +162,9 @@
             // 
             // frmCalculadora
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(428, 251);
+            this.ClientSize = new System.Drawing.Size(560, 315);
             this.Controls.Add(this.btnSequencia);
             this.Controls.Add(this.lblResultat);
             this.Controls.Add(this.txtResultat);
@@ -165,6 +176,7 @@
             this.Controls.Add(this.lblNombre1);
             this.Controls.Add(this.txtNombre2);
             this.Controls.Add(this.txtNombre1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmCalculadora";
             this.Text = "Calculadora";
             this.Load += new System.EventHandler(this.frmCalculadora_Load);
